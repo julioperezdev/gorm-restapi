@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d41cbf3-ab01-4c9c-8238-bb61f007afba" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go Application" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="$USER_HOME$/sdk/go1.15.3" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1l28Gddps4GEw7CGqtTIDEeDyt0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build restapi-gorm" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="restapi-gorm" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="restapi-gorm" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build restapi-gorm" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="662" height="187" key="GridCell.Tab.0.bottom" timestamp="1606792138056">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="662" height="187" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1606792138056" />
+    <state width="662" height="187" key="GridCell.Tab.0.center" timestamp="1606792138055">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="662" height="187" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1606792138055" />
+    <state width="662" height="187" key="GridCell.Tab.0.left" timestamp="1606792138055">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="662" height="187" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1606792138055" />
+    <state width="662" height="187" key="GridCell.Tab.0.right" timestamp="1606792138056">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="662" height="187" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1606792138056" />
+    <state width="193" height="456" key="HiddenNamespacesPopup" timestamp="1606790702456">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="193" height="456" key="HiddenNamespacesPopup/0.0.1366.768@0.0.1366.768" timestamp="1606790702456" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1606791805861">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1606791805861" />
+  </component>
+</project>
